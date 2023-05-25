@@ -1,0 +1,73 @@
+.header{
+    width: 555px;
+    padding: 20px 0px;
+    margin: 40px auto;
+}
+
+    .header__link{
+    margin: 0 35px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #434343;
+}
+
+.main{
+    width: 906px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 420px;
+    display: inline-block;
+    margin: 130px 15px ;
+}
+.card__img {
+    margin-bottom: 62px;
+    width: 400px;
+}
+.card__text {
+
+}
+.card__text-1 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+
+}
+.card__text-2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.card__text-3 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+color: #626262;
+}
+
+.button{
+    cursor: pointer; /* щоб з'явився ефект кліку */
+    padding: 20px 48px;
+    border: 1px solid #626262;
+    margin: 0 auto;
+    width: 68px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
